@@ -57,7 +57,7 @@ How to Run Locally
 
 Clone the repository and navigate to the folder:
 
-git clone (https://github.com/andriysavcyn/house-price-prediction.git)
+git clone (https://github.com/andriysavcyn/houses-price-prediction.git)
 Create a virtual environment and install dependencies:
 
 python -m venv venv
